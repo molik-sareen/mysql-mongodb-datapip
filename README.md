@@ -8,8 +8,7 @@ Load into MongoDB
 Fully automated ETL pipeline  
 
 ## Setup Instructions:
-```sh
 git clone https://github.com/your-username/mysql-mongodb-data-pip.git
-cd mysql-mongodb-data-pipeline
+cd mysql-mongodb-datapip
 pip install -r requirements.txt
 python etl_pipeline.py
